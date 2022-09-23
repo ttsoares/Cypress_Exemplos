@@ -2,9 +2,9 @@
 
 ---
 
-## Um curso quase gratuito - custa só uma ⭐️ aqui no repositório
+## O respsitório orginal, do qual veio este, estava incompleto e com error no código.
 
-Se você quer aprender sobre Cypress, colocar mais um projeto no Portfólio e elevar seus conhecimentos de forma gratuita, #bora.
+Completei os testes propostos no vídeo e corrigi os problemas que impediam rodar os 4 testes.
 
 ---
 
@@ -22,7 +22,7 @@ Se você quer aprender sobre Cypress, colocar mais um projeto no Portfólio e el
 - depois `npm install`
 - depois `npm start`
 
-2.Acessar o diretório frontend, instalar as dependências e iniciar o site:
+  2.Acessar o diretório frontend, instalar as dependências e iniciar o site:
 
 - `cd frontend`
 - depois `npm install`
